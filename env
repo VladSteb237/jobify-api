@@ -1,0 +1,4 @@
+MONGO_URL=mongodb+srv://john:1234@cluster0.kccfccf.mongodb.net/JOBIFY?retryWrites=true&w=majority
+JWT_SECRET=FJtMH20uocAapHHBcjxJSLCvGImqUftI
+JWT_LIFETIME=1d
+
